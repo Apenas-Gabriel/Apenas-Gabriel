@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Apenas-Gabriel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Apenas-Gabriel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apenas-Gabriel&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Apenas-Gabriel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apenas-Gabriel&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
  ## 
